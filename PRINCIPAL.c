@@ -128,18 +128,21 @@ int main(int argc, char* argv[]) {
     char* email_remitent1 = NULL;
     
 	char    	nom_servidor[REPLY_MSG_SIZE];/*guarda la ip del servidor de mail*/
-	char	    	email_destinatari[REPLY_MSG_SIZE];
-	char	    	email_remitent[REPLY_MSG_SIZE];
-	char	    	text_email[REPLY_MSG_SIZE];
+	char	    email_destinatari[REPLY_MSG_SIZE];
+	char	    email_remitent[REPLY_MSG_SIZE];
+	char	    text_email[REPLY_MSG_SIZE];
 	
-	char	    	serverName[REPLY_MSG_SIZE];/*guarda la ip del servidor de http*/
+	char	    serverName[REPLY_MSG_SIZE];/*guarda la ip del servidor de http*/
 	char		missatge[REPLY_MSG_SIZE];/*comando de consulta a servidor*/
-	char 	    	header[500];
+	char 	    header[500];
 	char		dades[4700];
 	char 		URLServidor[50];/*afegit per Fita2. Guarda la adreça URL del servidor que volem connectar*/
 	char 		Recurs[40];/*afegit per Fita2.Guarda la denominacio del recurs del servidor al que es vol accedir*/
 	char		missatge1[REPLY_MSG_SIZE];
 	char		missatge2[REPLY_MSG_SIZE];
+	int			contadorseg=0;
+	int			segons=100; // llegeix cada T temps la magnitud física del sensor seleccionat
+	float		valor_llegit=0;
 
 	/*DEFINICIO DE ORDRES PER CONSTITUIR EL MISSATGE AL SERVIDOR*/
 	char		ordre[] = "GET / HTTP/1.1\r\nHost: ";
@@ -227,8 +230,17 @@ int main(int argc, char* argv[]) {
 	sprintf(missatge,"GET %s HTTP/1.1\r\nHost: %s",Recurs,URLServidor);
 	strcat(missatge,ajust);
 	printf("%s",missatge);
-	
+
 	http_get(serverName, missatge, header, dades);
+	
+		while(1){
+			contadorseg++;
+				if (contadorseg == segons){
+					sensor_LM35(valor_llegit);
+					contadorseg =0;
+				}
+			sleep(1);
+	}
 
 	return 0;
 
