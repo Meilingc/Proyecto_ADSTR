@@ -96,7 +96,6 @@
 #include <config.h>
 #endif
 
-#include "funcions.h"
 
 #include <stdio.h>
 #include <stdlib.h>
