@@ -1,0 +1,672 @@
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 17:37:11'
+Valor màxim: 24.52 V
+Valor mínim: 24.19 V
+Valor mig: 24.26 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 19:49:27'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.63 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 10:58:19'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 24.29 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 10:58:19'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 24.29 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 10:58:19'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 24.29 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 10:58:19'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 24.29 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:05:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.93 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:05:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.93 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:05:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.93 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:23:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.87 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:23:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.87 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:23:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.87 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:23:50'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.87 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 11:50:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.73 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 13:17:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.20 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 13:18:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.20 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 14:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.25 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 17:06:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.49 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 17:36:06'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.53 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 17:36:06'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.53 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 17:40:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.53 V
+
+
+Sensor: 1
+Data/hora inici: 'H��'
+Data/hora final: '8��'
+Valor màxim: -20.00 V
+Valor mínim: 3000.00 V
+Valor mig: nan V
+
+
+Sensor: 2
+Data/hora inici: '��'
+Data/hora final: ''
+Valor màxim: -20.00 V
+Valor mínim: 3000.00 V
+Valor mig: nan V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 18:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.57 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 18:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.57 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 18:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.57 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 18:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.57 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-18 18:16:01'
+Valor màxim: 25.16 V
+Valor mínim: 21.61 V
+Valor mig: 23.57 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
+Sensor: 1
+Data/hora inici: '2020-10-26 19:41:44'
+Data/hora final: '2020-10-26 19:42:06'
+Valor màxim: 110.00 V
+Valor mínim: 101.00 V
+Valor mig: 105.50 V
+
+
+Sensor: 2
+Data/hora inici: '2020-11-17 17:36:39'
+Data/hora final: '2020-11-17 20:28:40'
+Valor màxim: 25.16 V
+Valor mínim: 24.19 V
+Valor mig: 24.80 V
+
+
